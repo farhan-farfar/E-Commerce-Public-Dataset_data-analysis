@@ -10,10 +10,9 @@ Proyek ini menganalisis data pesanan e-commerce (Olist, Brasil) untuk menjawab:
 submission
 ├── dashboard
 │   ├── main_data.csv
-│   ├── rfm_data.csv
 │   └── dashboard.py
 ├── data
-│   └── (9 file CSV dataset asli)
+│   └── rfm_data.csv
 ├── notebook.ipynb
 ├── README.md
 ├── requirements.txt
